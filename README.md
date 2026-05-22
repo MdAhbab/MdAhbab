@@ -86,15 +86,7 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 <img height="180em" src="https://streak-stats.demolab.com?user=MdAhbab&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-
 <br>
-
-<div align="center">
-
-[![Top Languages](https://stats-git-main-mdahbabs-projects.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
-
-</div>
 
 ---
 
