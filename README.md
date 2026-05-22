@@ -65,11 +65,26 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 ---
 
+### 🐍 GitHub Contributions Snake
+
+*(Note: You will need to set up the `Platane/snk` GitHub Action in your repository for this to appear!)*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-[![Ahbab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true&v=2)](https://github.com/MdAhbab)
+[![Ahbab's GitHub Stats](https://YOUR-VERCEL-DOMAIN/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
+
 [![Ahbab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
 
 </div>
@@ -78,7 +93,7 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true&v=2)](https://github.com/MdAhbab)
+[![Top Languages](https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
 
 </div>
 
@@ -88,9 +103,11 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 <div align="center">
   <a href="https://ahbab.dev"><img src="https://img.shields.io/badge/Website-ahbab.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:hello@ahbab.dev"><img src="https://img.shields.io/badge/Email-hello%40ahbab.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ahbab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/MdAhbab4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:ahbab.md@gmail.com"><img src="https://img.shields.io/badge/Email-ahbab.md%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mdahbab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/MdAhbab4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/THEmdAhbab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/the_maroonguy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <p align="center">
