@@ -67,8 +67,6 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 ### 🐍 GitHub Contributions Snake
 
-*(Note: You will need to set up the `Platane/snk` GitHub Action in your repository for this to appear!)*
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake-dark.svg">
