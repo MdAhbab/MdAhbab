@@ -83,12 +83,17 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 <div align="center">
 
-[![Ahbab's GitHub Stats](https://stats-git-main-mdahbabs-projects.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-[![Ahbab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 <br>
 
 <div align="center">
