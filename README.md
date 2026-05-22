@@ -68,18 +68,18 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/MdAhbab">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ahbab's GitHub Stats" />
-  </a>
-  <a href="https://github.com/MdAhbab">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&theme=tokyonight&hide_border=true" alt="Ahbab's GitHub Streak" />
-  </a>
+
+[![Ahbab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1)](https://github.com/MdAhbab)
+[![Ahbab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
+
 </div>
+
 <br>
+
 <div align="center">
-  <a href="https://github.com/MdAhbab">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/MdAhbab)
+
 </div>
 
 ---
