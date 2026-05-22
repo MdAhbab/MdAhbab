@@ -69,7 +69,7 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 <div align="center">
 
-[![Ahbab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1)](https://github.com/MdAhbab)
+[![Ahbab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&theme=tokyonight&hide_border=true&v=2)](https://github.com/MdAhbab)
 [![Ahbab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&theme=tokyonight&hide_border=true)](https://github.com/MdAhbab)
 
 </div>
@@ -78,7 +78,7 @@ I am a Machine Learning Researcher and Full-Stack Engineer focused on the fronti
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true&v=1)](https://github.com/MdAhbab)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&theme=tokyonight&hide_border=true&v=2)](https://github.com/MdAhbab)
 
 </div>
 
