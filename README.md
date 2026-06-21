@@ -1,104 +1,196 @@
-# 💫 Hi there, I'm Md Ahbab Hamid Khan
+<!--
+  ════════════════════════════════════════════════════════════════════
+  Md Ahbab Hamid Khan — GitHub Profile README
+  Lives in the repo MdAhbab/MdAhbab and renders on the profile page.
+  Every project listed here is a REAL, public repo on this account —
+  a visitor can click and verify. "In the Lab" = roadmap / upcoming.
+  ════════════════════════════════════════════════════════════════════
+-->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Machine+Learning+Researcher;Full-Stack+Software+Engineer;B.Sc.+CSE+Student+%40+UIU;AI%2C+Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
-</div>
+<!-- ░░░░░░░░░░░░░░░░░░░░  HEADER  ░░░░░░░░░░░░░░░░░░░░ -->
 
----
-
-### 👨‍💻 About Me
-
-I am a Machine Learning Researcher and Full-Stack Engineer focused on the frontier between scientific exploration and shipped products. I craft intelligent systems at the intersection of deep learning, computer vision, and human-aligned AI, with a particular passion for systems that explain themselves.
-
-* 🎓 **Education:** 4th-year BSCSE student at United International University (UIU).
-* 🌍 **Location:** Mirpur, Dhaka, Bangladesh.
-* 🚀 **Currently Building:** **RadFlow-Edge** (triaging medical data using offline AI) and **Holo-GNN** (a multi-modal protein learning framework).
-* 🧠 **Currently Investigating:** How transformer architectures learn compositional structure, and mechanistic interpretability.
-* 🌱 **Always Learning:** Advanced Object-Oriented Programming (OOP) in Java, Model Context Protocol (MCP) servers, and scalable Data Structures and Algorithms (DSA).
-* 🤝 **Collaborating On:** **Complete Legal Aid Systems** with my team and expanding open-source development.
-* 🏆 **Recent Milestones:** Participated in the Harvard HSIL Hackathon 2026, the 2026 Hult Prize competition, and the National AI Art-a-thon. 
-
----
-
-### 🛠️ Tech Stack & Arsenal
+<a href="https://ahbab.dev">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Md%20Ahbab%20Hamid%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20I%20ship%20real%2C%20working%20products&descAlignY=56&descSize=18" alt="header" />
+</a>
 
 <div align="center">
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<!-- Typing banner -->
+<a href="https://ahbab.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=CSE+Student+%40+UIU%2C+Dhaka+%F0%9F%87%A7%F0%9F%87%A9;Full-Stack+Engineer+%2B+Applied+AI;From+messy+idea+%E2%86%92+working+product;Two+live+products+you+can+click+right+now." alt="typing banner" />
+</a>
 
-**Machine Learning & AI**<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<br/>
 
-**Engineering & DevOps**<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux_RHCSA-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<!-- Social row -->
+<a href="https://ahbab.dev"><img src="https://img.shields.io/badge/Portfolio-ahbab.dev-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mdahbab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/MdAhbab4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.facebook.com/THEmdAhbab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/the_maroonguy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:ahbab.md@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MdAhbab&label=Profile%20views&color=58A6FF&style=flat-square" alt="profile views" />
+<a href="https://github.com/MdAhbab?tab=followers"><img src="https://img.shields.io/github/followers/MdAhbab?label=Followers&style=flat-square&color=58A6FF&logo=github" alt="followers" /></a>
 
 </div>
 
 ---
 
-### 🚀 Selected Projects
+## 👋 About Me
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**NeuroLens**](https://ahbab.dev) | Open-source toolkit for visualising attention circuits in transformer models. Used by 3 research labs. | PyTorch, TransformerLens, Plotly |
-| [**Synapse**](https://ahbab.dev) | Type-safe RAG framework compiling schemas into prompt-aware retrievers. | TypeScript, pgvector, OpenAI |
-| [**Atlas-VLM**](https://ahbab.dev) | Vision-Language Multimodal model fine-tuned for scientific diagram understanding. | JAX, CLIP, LoRA |
-| [**Fluxora**](https://github.com/MdAhbab/Fluxora) | A web-based SaaS for smooth urban-residential building and apartment management. | Python, Django |
-| [**InsightNest**](https://github.com/MdAhbab/InsightNest) | A Higher Education Platform designed for seamless academic administration. | Java |
-| [**DiffPose**](https://ahbab.dev) | Diffusion-based 3D human pose estimation from monocular video. | PyTorch, Diffusers, MMPose |
+```python
+class Ahbab:
+    def __init__(self):
+        self.role        = "Full-Stack Engineer + Applied AI"
+        self.education   = "4th-year BSc CSE @ United International University (UIU)"
+        self.location    = "Dhaka, Bangladesh 🇧🇩"
+        self.focus       = ["AI-for-good", "healthcare", "developer tooling"]
+        self.learning    = ["computer vision", "multi-agent LLM systems",
+                            "energy-efficient AI infra"]
+        self.philosophy  = "Take it all the way to working software — not just a demo."
 
-*(Note: Explore more of my foundational programming work like **OOP-Fundamentals** and **WasteBins** directly in my repositories!)*
+    def currently_building(self):
+        return "radflow-edge — 100% offline AI for chest-X-ray triage in rural clinics"
+```
+
+- 🎓 **4th-year BSc in CSE** at **United International University (UIU)**, Dhaka.
+- 🛠️ I build **full-stack web apps** and **applied-AI / ML** systems — and I push them to *real, working software.*
+- 🔭 **Currently working on:** [radflow-edge](https://github.com/MdAhbab/radflow-edge) — offline, edge-native AI for chest-X-ray triage in resource-constrained clinics.
+- 🌱 **Exploring:** computer vision, multi-agent LLM systems, and energy-efficient AI infrastructure.
+- 🤝 **Open to:** collaboration on AI-for-good, healthcare, and developer-tooling projects.
+
+> ⚡ **Two things you can click and use right now:**
+> [🏆 FIFA World Cup 2026 Predictor](https://fifaworldcup26predictor.ahbab.dev) — predictions from a live ML engine (Elo + Poisson), nothing hardcoded · [🛒 Vitrine](https://vitrine.ahbab.dev) — AI-powered software marketplace.
 
 ---
 
-### 🐍 GitHub Contributions Snake
+## 🛠️ Tech Stack
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake.svg">
-  </picture>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c&theme=dark" alt="languages" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,html,css&theme=dark" alt="frontend" />
+
+**Backend &amp; ML**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring,pytorch,sklearn&theme=dark" alt="backend and ml" />
+
+**Data &amp; Infra**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,rabbitmq,gcp,linux,git,github&theme=dark" alt="data and infra" />
+
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<div align="center">
+> All of these are real, public repositories on this account — open them and look around.
 
-<img height="180em" src="https://streak-stats.demolab.com?user=MdAhbab&theme=tokyonight&hide_border=true"/>
+| Project | What it is | Stack |
+|---|---|---|
+| 🩻 **[radflow-edge](https://github.com/MdAhbab/radflow-edge)** | Offline, edge-native AI that lets a single rural health worker run chest-X-ray triage with **no cloud** | TypeScript · Python · Edge AI |
+| 🤖 **[IBMbob](https://github.com/MdAhbab/IBMbob)** | Multi-agent AI orchestration — a central orchestrator routes work to parallel CLI coding agents | FastAPI · React · LLMs |
+| 🎓 **[ALink](https://github.com/MdAhbab/ALink)** | Connects Bangladeshi students with alumni at top global companies (mentorship, referrals, jobs) | React · FastAPI · scikit-learn · RabbitMQ |
+| 📚 **[InsightNest](https://github.com/MdAhbab/InsightNest)** | Academic-opportunity platform with AI advisory agents and role-based portals | React · Spring Boot · MySQL |
+| 📰 **[Neuzo-News-Bot-AI](https://github.com/MdAhbab/Neuzo-News-Bot-AI)** | Aggregates, fact-checks &amp; synthesizes news using NLP cross-referencing | Flask · React · Sentence-Transformers |
+| 🛒 **[vitrine](https://github.com/MdAhbab/vitrine)** · [🔗 Live](https://vitrine.ahbab.dev) | AI-powered software marketplace with a fleet of cooperating agents | FastAPI · React · OpenAI |
+| 🏢 **[Fluxora](https://github.com/MdAhbab/Fluxora)** | Web-based SaaS for urban-residential building &amp; apartment management | TypeScript · React · FastAPI |
+| ⚽ **[FIFA-WC-26-predictor](https://github.com/MdAhbab/FIFA-WC-26-predictor)** · [🔗 Live](https://fifaworldcup26predictor.ahbab.dev) | ML-driven World Cup bracket predictor (Elo + Poisson + Monte-Carlo) | React · FastAPI · scikit-learn |
 
-</div>
-<br>
+<details>
+<summary>🔬 <b>More projects</b> — research, bioinformatics, e-commerce &amp; coursework</summary>
+
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🧬 **[iOmicsLab](https://github.com/MdAhbab/iOmicsLab)** | Full-stack bioinformatics lab site with a WebGL central-dogma narrative + admin CMS | React · FastAPI · Three.js |
+| 📊 **[MCP_Server_Benchmarks](https://github.com/MdAhbab/MCP_Server_Benchmarks)** | Benchmarking framework for energy-efficient MCP server architectures | Python · Research |
+| ♻️ **[WasteBins](https://github.com/MdAhbab/WasteBins)** | AI-optimized waste-collection routing (Random Forest + traffic-aware Dijkstra) | Python · scikit-learn |
+| 🎨 **[Oasis](https://github.com/MdAhbab/Oasis)** | Online art marketplace with auctions, bidding &amp; ownership history | Python · MySQL · Tailwind |
+| ♿ **[De-Novo](https://github.com/MdAhbab/De-Novo)** | Accessible communication platform for people with disabilities | JavaScript · Django · GCP |
+| 🧩 **[H.E.X](https://github.com/MdAhbab/H.E.X)** | Multi-feature platform bundling small but genuinely useful services | Java |
+| 🧱 **[OOP-Fundamentals](https://github.com/MdAhbab/OOP-Fundamentals)** | Progressive OOP curriculum &amp; exercises in Java and Python | Java · Python |
+| 📖 **[Intro-to-HTML-CSS-JavaScript](https://github.com/MdAhbab/Intro-to-HTML-CSS-JavaScript)** | A beginner-friendly, organised front-end learning blog | HTML · CSS · JS |
+| 🍋 **[Django-LittleLemon](https://github.com/MdAhbab/Django-LittleLemon-Restaurant-by-Meta)** | Restaurant API built for the Meta-certified Django course | Python · Django |
+
+</details>
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://ahbab.dev"><img src="https://img.shields.io/badge/Website-ahbab.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:ahbab.md@gmail.com"><img src="https://img.shields.io/badge/Email-ahbab.md%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mdahbab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/MdAhbab4"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/THEmdAhbab"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/the_maroonguy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&hide_border=true&theme=tokyonight" alt="streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdAhbab&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MdAhbab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
+
 </div>
 
-<p align="center">
-  <i>Building machines that reason, learn, and adapt.</i>
-</p>
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation eating my contribution graph" src="https://raw.githubusercontent.com/MdAhbab/MdAhbab/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🧪 In the Lab — what's coming next
+
+> Research-flavoured projects I'm actively designing and building toward. Repos open as each one becomes real — watch this space.
+
+| Project | The idea | Direction |
+|---|---|---|
+| 🔭 **NeuroLens** | Open-source toolkit for visualising attention circuits inside transformer models | PyTorch · TransformerLens · Plotly |
+| 🧩 **Synapse** | Type-safe RAG framework that compiles schemas into prompt-aware retrievers | TypeScript · pgvector · LLMs |
+| 🛰️ **Atlas-VLM** | Vision-Language model fine-tuned for scientific-diagram understanding | JAX · CLIP · LoRA |
+| 🕺 **DiffPose** | Diffusion-based 3D human-pose estimation from monocular video | PyTorch · Diffusers · MMPose |
+
+---
+
+<div align="center">
+
+### 💬 Let's connect
+
+I'm always happy to talk about **AI-for-good**, **full-stack engineering**, or **student research**.
+
+<a href="https://ahbab.dev"><img src="https://img.shields.io/badge/ahbab.dev-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" /></a>
+<a href="mailto:ahbab.md@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/mdahbab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+
+<br/><br/>
+
+<sub>⭐ If any of my projects help you, a star means a lot.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer" />
