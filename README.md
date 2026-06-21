@@ -116,7 +116,7 @@ class Ahbab:
 | Project | What it is | Stack |
 |---|---|---|
 | 🩻 **[radflow-edge](https://github.com/MdAhbab/radflow-edge)** | Offline, edge-native AI that lets a single rural health worker run chest-X-ray triage with **no cloud** | TypeScript · Python · Edge AI |
-| 🤖 **[IBMbob](https://github.com/MdAhbab/IBMbob)** | Multi-agent AI orchestration — a central orchestrator routes work to parallel CLI coding agents | FastAPI · React · LLMs |
+| 🤖 **[OrchestratorCLI](https://github.com/MdAhbab/OrchestratorCLI)** | Multi-agent AI orchestration — a central orchestrator routes work to parallel CLI coding agents | FastAPI · React · LLMs |
 | 🎓 **[ALink](https://github.com/MdAhbab/ALink)** | Connects Bangladeshi students with alumni at top global companies (mentorship, referrals, jobs) | React · FastAPI · scikit-learn · RabbitMQ |
 | 📚 **[InsightNest](https://github.com/MdAhbab/InsightNest)** | Academic-opportunity platform with AI advisory agents and role-based portals | React · Spring Boot · MySQL |
 | 📰 **[Neuzo-News-Bot-AI](https://github.com/MdAhbab/Neuzo-News-Bot-AI)** | Aggregates, fact-checks &amp; synthesizes news using NLP cross-referencing | Flask · React · Sentence-Transformers |
