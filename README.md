@@ -73,19 +73,37 @@ class Ahbab:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,rust,go,swift&theme=dark" alt="languages" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ai and ml" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/JAX-D24EFF?style=flat-square&logo=google&logoColor=white" alt="JAX" />
+<img src="https://img.shields.io/badge/Transformers-FF6F61?style=flat-square&logo=openai&logoColor=white" alt="Transformers" />
+<img src="https://img.shields.io/badge/Diffusion-4B8BBE?style=flat-square" alt="Diffusion" />
+<img src="https://img.shields.io/badge/RLHF-2EA44F?style=flat-square" alt="RLHF" />
+<img src="https://img.shields.io/badge/Mechanistic_Interpretability-8957E5?style=flat-square" alt="Mechanistic Interpretability" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,html,css&theme=dark" alt="frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,html,css&theme=dark" alt="frontend" />
 
-**Backend &amp; ML**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring,pytorch,sklearn&theme=dark" alt="backend and ml" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring,nodejs,express&theme=dark" alt="backend" />
 
 **Data &amp; Infra**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,nginx,rabbitmq,gcp,linux,git,github&theme=dark" alt="data and infra" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,kubernetes,aws,gcp,nginx,rabbitmq,linux&theme=dark" alt="data and infra" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,npm&theme=dark" alt="tools" />
 
 </div>
 
@@ -131,7 +149,7 @@ class Ahbab:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
 
 <br/>
@@ -141,10 +159,6 @@ class Ahbab:
 <br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdAhbab&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MdAhbab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -174,6 +188,28 @@ class Ahbab:
 | 🧩 **Synapse** | Type-safe RAG framework that compiles schemas into prompt-aware retrievers | TypeScript · pgvector · LLMs |
 | 🛰️ **Atlas-VLM** | Vision-Language model fine-tuned for scientific-diagram understanding | JAX · CLIP · LoRA |
 | 🕺 **DiffPose** | Diffusion-based 3D human-pose estimation from monocular video | PyTorch · Diffusers · MMPose |
+
+---
+
+## 🌏 Beyond the Code
+
+When I step away from the keyboard, you'll usually find me doing one of these:
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🍳_Cooking-FF7043?style=for-the-badge&logoColor=white" alt="Cooking" />
+<img src="https://img.shields.io/badge/🎤_Singing-AB47BC?style=for-the-badge&logoColor=white" alt="Singing" />
+<img src="https://img.shields.io/badge/🏏_Cricket-26A69A?style=for-the-badge&logoColor=white" alt="Cricket" />
+<img src="https://img.shields.io/badge/⚽_Football-66BB6A?style=for-the-badge&logoColor=white" alt="Football" />
+<img src="https://img.shields.io/badge/🎟️_Event_Management-FFA726?style=for-the-badge&logoColor=white" alt="Event Management" />
+<br/>
+<img src="https://img.shields.io/badge/📸_Photography-EC407A?style=for-the-badge&logoColor=white" alt="Photography" />
+<img src="https://img.shields.io/badge/♟️_Chess-8D6E63?style=for-the-badge&logoColor=white" alt="Chess" />
+<img src="https://img.shields.io/badge/🥾_Hiking-78909C?style=for-the-badge&logoColor=white" alt="Hiking" />
+<img src="https://img.shields.io/badge/✍️_Writing-5C6BC0?style=for-the-badge&logoColor=white" alt="Writing" />
+<img src="https://img.shields.io/badge/✈️_Travel-29B6F6?style=for-the-badge&logoColor=white" alt="Travel" />
+
+</div>
 
 ---
 
