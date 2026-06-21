@@ -149,12 +149,8 @@ class Ahbab:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdAhbab&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAhbab&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&hide_border=true&theme=tokyonight" alt="streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAhbab&hide_border=true&theme=tokyonight" alt="streak" />
 
 <br/>
 
