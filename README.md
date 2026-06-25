@@ -134,7 +134,7 @@ class Ahbab:
 | 🧬 **[iOmicsLab](https://github.com/MdAhbab/iOmicsLab)** | Full-stack bioinformatics lab site with a WebGL central-dogma narrative + admin CMS | React · FastAPI · Three.js |
 | 📊 **[MCP_Server_Benchmarks](https://github.com/MdAhbab/MCP_Server_Benchmarks)** | Benchmarking framework for energy-efficient MCP server architectures | Python · Research |
 | ♻️ **[WasteBins](https://github.com/MdAhbab/WasteBins)** · [🔗 Live](https://wastebins.vercel.app) | AI-optimized waste-collection routing (Random Forest + traffic-aware Dijkstra) | Python · scikit-learn |
-| 🎨 **[Oasis](https://github.com/MdAhbab/Oasis)** · [🔗 Live](https://oasis-mdahbabs-projects.vercel.app) | Online art marketplace with auctions, bidding &amp; ownership history | Python · MySQL · Tailwind |
+| 🎨 **[Oasis](https://github.com/MdAhbab/Oasis)** · [🔗 Live](https://oasis-brown.vercel.app) | Online art marketplace with auctions, bidding &amp; ownership history | Python · MySQL · Tailwind |
 | ♿ **[De-Novo](https://github.com/MdAhbab/De-Novo)** · [🔗 Live](https://de-novo-jet.vercel.app) | Accessible communication platform for people with disabilities | JavaScript · Django · GCP |
 | 🛍️ **[alexaBD](https://github.com/MdAhbab/alexaBD)** · [🔗 Live](https://alexabd.vercel.app) | Enterprise e-commerce platform — real-time alerts, loyalty points, Stripe checkout &amp; async invoicing | Django · React · Redis |
 | 🛡️ **[SentinelGuard](https://github.com/MdAhbab/SentinelGuard)** · [🔗 Live](https://sentinelguard-eight.vercel.app) | Security-as-a-Service — AI guard rostering, QR patrol logs &amp; a hash-chained audit trail | Express · React · TypeScript |
