@@ -111,17 +111,17 @@ class Ahbab:
 
 ## 🚀 Featured Projects
 
-> All of these are real, public repositories on this account — open them and look around.
+> All of these are real, public repositories on this account — open them and look around. Many now have a **live preview** (🔗) you can click and explore.
 
 | Project | What it is | Stack |
 |---|---|---|
 | 🩻 **[radflow-edge](https://github.com/MdAhbab/radflow-edge)** | Offline, edge-native AI that lets a single rural health worker run chest-X-ray triage with **no cloud** | TypeScript · Python · Edge AI |
 | 🤖 **[OrchestratorCLI](https://github.com/MdAhbab/OrchestratorCLI)** | Multi-agent AI orchestration — a central orchestrator routes work to parallel CLI coding agents | FastAPI · React · LLMs |
-| 🎓 **[ALink](https://github.com/MdAhbab/ALink)** | Connects Bangladeshi students with alumni at top global companies (mentorship, referrals, jobs) | React · FastAPI · scikit-learn · RabbitMQ |
-| 📚 **[InsightNest](https://github.com/MdAhbab/InsightNest)** | Academic-opportunity platform with AI advisory agents and role-based portals | React · Spring Boot · MySQL |
-| 📰 **[Neuzo-News-Bot-AI](https://github.com/MdAhbab/Neuzo-News-Bot-AI)** | Aggregates, fact-checks &amp; synthesizes news using NLP cross-referencing | Flask · React · Sentence-Transformers |
+| 🎓 **[ALink](https://github.com/MdAhbab/ALink)** · [🔗 Live](https://alink-five.vercel.app) | Connects Bangladeshi students with alumni at top global companies (mentorship, referrals, jobs) | React · FastAPI · scikit-learn · RabbitMQ |
+| 📚 **[InsightNest](https://github.com/MdAhbab/InsightNest)** · [🔗 Live](https://insightnest-five.vercel.app) | Academic-opportunity platform with AI advisory agents and role-based portals | React · Spring Boot · MySQL |
+| 📰 **[Neuzo-News-Bot-AI](https://github.com/MdAhbab/Neuzo-News-Bot-AI)** · [🔗 Live](https://neuzo-news-bot.vercel.app) | Aggregates, fact-checks &amp; synthesizes news using NLP cross-referencing | Flask · React · Sentence-Transformers |
 | 🛒 **[vitrine](https://github.com/MdAhbab/vitrine)** · [🔗 Live](https://vitrine.ahbab.dev) | AI-powered software marketplace with a fleet of cooperating agents | FastAPI · React · OpenAI |
-| 🏢 **[Fluxora](https://github.com/MdAhbab/Fluxora)** | Web-based SaaS for urban-residential building &amp; apartment management | TypeScript · React · FastAPI |
+| 🏢 **[Fluxora](https://github.com/MdAhbab/Fluxora)** · [🔗 Live](https://fluxora-rust.vercel.app) | Web-based SaaS for urban-residential building &amp; apartment management | TypeScript · React · FastAPI |
 | ⚽ **[FIFA-WC-26-predictor](https://github.com/MdAhbab/FIFA-WC-26-predictor)** · [🔗 Live](https://fifaworldcup26predictor.ahbab.dev) | ML-driven World Cup bracket predictor (Elo + Poisson + Monte-Carlo) | React · FastAPI · scikit-learn |
 
 <details>
@@ -133,10 +133,14 @@ class Ahbab:
 |---|---|---|
 | 🧬 **[iOmicsLab](https://github.com/MdAhbab/iOmicsLab)** | Full-stack bioinformatics lab site with a WebGL central-dogma narrative + admin CMS | React · FastAPI · Three.js |
 | 📊 **[MCP_Server_Benchmarks](https://github.com/MdAhbab/MCP_Server_Benchmarks)** | Benchmarking framework for energy-efficient MCP server architectures | Python · Research |
-| ♻️ **[WasteBins](https://github.com/MdAhbab/WasteBins)** | AI-optimized waste-collection routing (Random Forest + traffic-aware Dijkstra) | Python · scikit-learn |
-| 🎨 **[Oasis](https://github.com/MdAhbab/Oasis)** | Online art marketplace with auctions, bidding &amp; ownership history | Python · MySQL · Tailwind |
-| ♿ **[De-Novo](https://github.com/MdAhbab/De-Novo)** | Accessible communication platform for people with disabilities | JavaScript · Django · GCP |
-| 🧩 **[H.E.X](https://github.com/MdAhbab/H.E.X)** | Multi-feature platform bundling small but genuinely useful services | Java |
+| ♻️ **[WasteBins](https://github.com/MdAhbab/WasteBins)** · [🔗 Live](https://wastebins.vercel.app) | AI-optimized waste-collection routing (Random Forest + traffic-aware Dijkstra) | Python · scikit-learn |
+| 🎨 **[Oasis](https://github.com/MdAhbab/Oasis)** · [🔗 Live](https://oasis-mdahbabs-projects.vercel.app) | Online art marketplace with auctions, bidding &amp; ownership history | Python · MySQL · Tailwind |
+| ♿ **[De-Novo](https://github.com/MdAhbab/De-Novo)** · [🔗 Live](https://de-novo-jet.vercel.app) | Accessible communication platform for people with disabilities | JavaScript · Django · GCP |
+| 🛍️ **[alexaBD](https://github.com/MdAhbab/alexaBD)** · [🔗 Live](https://alexabd.vercel.app) | Enterprise e-commerce platform — real-time alerts, loyalty points, Stripe checkout &amp; async invoicing | Django · React · Redis |
+| 🛡️ **[SentinelGuard](https://github.com/MdAhbab/SentinelGuard)** · [🔗 Live](https://sentinelguard-eight.vercel.app) | Security-as-a-Service — AI guard rostering, QR patrol logs &amp; a hash-chained audit trail | Express · React · TypeScript |
+| ⚖️ **[Complete Legal Aid](https://github.com/Tanjamul-Azad/Complete-Legal-Aid)** · [🔗 Live](https://complete-legal-aid.vercel.app) | Citizen-first legal-tech for Bangladesh — verified lawyers, evidence vault &amp; a bilingual AI assistant *(collab)* | Django · React · MySQL |
+| 🎬 **[KreatOS](https://github.com/2HAAS/KreatOS-Frontend)** · [🔗 Live](https://kreatos-rosy.vercel.app) | Multi-tenant creator CMS &amp; multi-platform publisher *(collab)* | Next.js · React · TypeScript |
+| 🧩 **[H.E.X](https://github.com/MdAhbab/H.E.X)** | Multi-feature JavaFX desktop platform bundling small but genuinely useful services | Java |
 | 🧱 **[OOP-Fundamentals](https://github.com/MdAhbab/OOP-Fundamentals)** | Progressive OOP curriculum &amp; exercises in Java and Python | Java · Python |
 | 📖 **[Intro-to-HTML-CSS-JavaScript](https://github.com/MdAhbab/Intro-to-HTML-CSS-JavaScript)** | A beginner-friendly, organised front-end learning blog | HTML · CSS · JS |
 | 🍋 **[Django-LittleLemon](https://github.com/MdAhbab/Django-LittleLemon-Restaurant-by-Meta)** | Restaurant API built for the Meta-certified Django course | Python · Django |
