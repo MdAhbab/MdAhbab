@@ -124,6 +124,17 @@ class Ahbab:
 | 🏢 **[Fluxora](https://github.com/MdAhbab/Fluxora)** · [🔗 Live](https://fluxora-rust.vercel.app) | Web-based SaaS for urban-residential building &amp; apartment management | TypeScript · React · FastAPI |
 | ⚽ **[FIFA-WC-26-predictor](https://github.com/MdAhbab/FIFA-WC-26-predictor)** · [🔗 Live](https://fifaworldcup26predictor.ahbab.dev) | ML-driven World Cup bracket predictor (Elo + Poisson + Monte-Carlo) | React · FastAPI · scikit-learn |
 
+### 🆕 Recent builds
+
+> Newest full-stack products — each with a clickable live demo (dashboards open without login).
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🌆 **[DuskDrop](https://github.com/MdAhbab/DuskDrop)** · [🔗 Live](https://duskdrop.vercel.app) | Hyperlocal *"expiring-soon"* marketplace — surplus food at live **time-decaying** discounts, map + countdown, vendor console | React · FastAPI · Three.js · MapLibre · GSAP |
+| 🧊 **[VoxelForge](https://github.com/MdAhbab/VoxelForge)** · [🔗 Live](https://voxelforge-sage.vercel.app) | Made-to-order 3D-printing shop — in-browser **parametric** configurator, real-time volumetric pricing, printability pre-flight | React · Three.js (r3f) · FastAPI · GSAP |
+| 🤝 **[Shohay](https://github.com/MdAhbab/Shohay)** · [🔗 Live](https://shohay-zeta.vercel.app) | National relief &amp; donation **transparency** platform for Bangladesh — tracks every donation pledge→distributed across division/zila/upazila on a live map | React · FastAPI · Three.js · MapLibre |
+| 🎁 **[Untold](https://github.com/MdAhbab/Untold)** · [🔗 Live](https://untold-mystery-box-nu.vercel.app) | Curated mystery-box engine — budget + taste tags → a constraint-solver assembles a themed box → scroll-driven **3D reveal** | React · Three.js · FastAPI · GSAP |
+
 <details>
 <summary>🔬 <b>More projects</b> — research, bioinformatics, e-commerce &amp; coursework</summary>
 
