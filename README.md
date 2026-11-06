@@ -312,8 +312,6 @@ I took my competition model (Elo + Poisson) and shipped it as an app where anyon
 
 <img src="https://streak-stats.demolab.com/?user=MdAhbab&theme=tokyonight&hide_border=true&border_radius=6" width="98%" alt="contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdAhbab&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true&area_color=7aa2f7&hide_border=true&radius=6" width="98%" alt="activity graph" />
-
 </div>
 
 ---
