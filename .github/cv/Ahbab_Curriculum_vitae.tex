@@ -1,0 +1,169 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{charter}
+\usepackage[left=14mm,right=14mm,top=13mm,bottom=13mm]{geometry}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{microtype}
+\usepackage{needspace}
+\input{glyphtounicode}
+\pdfgentounicode=1
+\usepackage{hyperref}
+
+\definecolor{cvblue}{RGB}{31,78,121}
+\hypersetup{
+  pdftitle={Md Ahbab Hamid Khan - Curriculum Vitae},
+  pdfauthor={Md Ahbab Hamid Khan},
+  colorlinks=true,linkcolor=cvblue,urlcolor=cvblue
+}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\tabcolsep}{0pt}
+\linespread{1.03}
+
+\titleformat{\section}{\color{cvblue}\bfseries\normalsize}{}{0pt}{\MakeUppercase}[\vspace{-2pt}\color{black}\titlerule]
+\titlespacing*{\section}{0pt}{7pt}{3pt}
+
+\newcommand{\entry}[2]{\needspace{3\baselineskip}\textbf{#1}\hfill #2\par}
+\newcommand{\sub}[1]{\textit{#1}\par}
+\newcommand{\proj}[3]{\vspace{2pt}\entry{#1}{#2}#3\par}
+\newcommand{\group}[1]{\vspace{4pt}\needspace{4\baselineskip}{\color{cvblue}\textbf{#1}}\par}
+\newcommand{\sep}{\ \textbullet\ }
+\setlist[itemize]{leftmargin=14pt,itemsep=1pt,topsep=2pt,parsep=0pt,label=\textbullet}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries MD AHBAB HAMID KHAN}\\[3pt]
+  {\color{cvblue}\itshape Bioinformatics \& Applied AI Research Engineer}\\[2pt]
+  Mirpur 10, Dhaka-1216, Bangladesh\\[1pt]
+  ahbab.md@gmail.com\sep +880 1987-674845\\[1pt]
+  \href{https://linkedin.com/in/mdahbab}{linkedin.com/in/mdahbab}\sep \href{https://github.com/MdAhbab}{github.com/MdAhbab}\sep \href{https://ahbab.tech}{ahbab.tech}
+\end{center}
+\vspace{-6pt}
+
+\section{About}
+Computer Science and Engineering graduate from United International University, focused on bioinformatics. Research covers gene regulation, protein structure and function, and communication between cells. Also works in software development, machine learning, AI security, and embedded systems with computer vision. Values human-centric design, sound design principles, and clear system architecture. Teaches HSC students alongside research and has tutored since 2022. Aims to pursue advanced study and research, turning complex ideas into useful tools.
+
+\section{Research Interests}
+Enhancer-Promoter Interaction and Genomics\sep Protein Structure and Function\sep Cell-to-Cell Communication and Biological Encoders\sep Quantum Bioinformatics and ML Simulation\sep Medical Imaging and Medical Visual Question Answering\sep Continual Learning\sep Efficient Deep Learning and Transformer Architectures\sep Agentic AI and Model Context Protocol Systems\sep AI Security\sep Embedded Systems and Computer Vision\sep Machine Learning for Smart Cities and Sustainability\sep Human-Computer Interaction
+
+\section{Education}
+\entry{B.Sc. in Computer Science and Engineering}{Graduated October 2026}
+\sub{United International University, Dhaka, Bangladesh \textbullet\ CGPA: 3.83 / 4.00 \textbullet\ All requirements completed in 12 trimesters}
+\vspace{2pt}
+\entry{Higher Secondary Certificate (HSC)}{2021}
+\sub{Mirpur Cantonment Public School and College, Dhaka \textbullet\ GPA: 5.00 / 5.00 (Dhaka Board)}
+\vspace{2pt}
+\entry{Secondary School Certificate (SSC)}{2019}
+\sub{Mirpur Cantonment Public School and College, Dhaka \textbullet\ GPA: 4.72 / 5.00 (Dhaka Board)}
+
+\section{Research Work}
+\entry{Researcher (independent and collaborative)}{2024 - Present}
+\sub{United International University \textbullet\ iOmicsLab}
+\begin{itemize}
+  \item \textbf{SLIM: Selective Memory and Leakage-Controlled Evaluation for Enhancer-Promoter Interaction Prediction.} Invented a new transformer architecture and processed large datasets.
+  \item \textbf{Enhancer-Promoter Model Benchmarking:} Compares interaction prediction models across different architectures.
+  \item \textbf{Holo-GeoN:} Predicts mutation effects on protein stability and disease, without using protein structures.
+  \item \textbf{Protein Structure and Function:} Builds deep learning models for protein stability, interaction, and expression.
+  \item \textbf{Cell-to-Cell Communication and Biological Encoders:} Builds encoders for biological signals.
+  \item \textbf{Quantum Bioinformatics and ML Simulation:} Applies quantum methods and machine learning simulations to research.
+  \item \textbf{Medical Imaging and Question Answering:} Offline chest X-ray triage and medical question answering for low-resource clinics. Uses small models and continual learning (Radflow Edge).
+  \item \textbf{Model Context Protocol Servers:} Survey and benchmarks of server designs for sustainable computing.
+  \item \textbf{Efficient Model Design:} Prototypes focused-bin transformer and Hierarchical Ancestral Memory Attention designs.
+  \item \textbf{Smart Waste Routing:} Priority-weighted dynamic routing for IoT-based waste management in sustainable cities. Combines Random Forest urgency prediction (R\textsuperscript{2} about 0.93) with traffic-aware graph routing.
+  \item \textbf{Waste Vehicle Routing:} Weight-based vehicle routing algorithms for waste collection.
+  \item \textbf{NOVIS (Non-Optical Visual Inference System):} Embedded system that reconstructs grayscale images, metric depth, and inferred color without a camera. Uses a 32x24 thermopile array, ultrasonic ranges, and active chirp echoes. Produces a confidence map for inferred color.
+  \item \textbf{iOmicsLab Platform:} Contributor to the open-source iOmicsLab platform.
+\end{itemize}
+
+\section{Honors and Awards}
+\begin{itemize}
+  \item \textbf{Scholarship Recipient:} Awarded 8 times at United International University, including a 50\% scholarship 4 times.
+  \item \textbf{Winner:} Codex Community Hackathon (Devpost).
+  \item \textbf{Finalist:} HSIL Hackathon 2026 (7th Edition).
+  \item \textbf{National Finalist:} Infinity AI BuildFest 2026.
+  \item \textbf{Finalist, Honorable Mention (12th):} National Blockchain Olympiad, with Breadcrumbs.
+  \item \textbf{2nd Runner-Up:} THE CIVIL WAR Hackathon, arranged by UIU Developers Hub with CDIP.
+  \item \textbf{Runner-Up:} UIU Model United Nations (General Assembly).
+  \item \textbf{3rd Runner-Up:} Software Engineering Project, UIU CSE Project Show, Fall 2025.
+  \item \textbf{4th Runner-Up:} Microprocessor Project (Smart WasteBins), UIU CSE Project Show, Summer 2025.
+  \item \textbf{Two Volunteering Certificates:} Served as a Scout.
+  \item Competition results above come from \textbf{12+ hackathons and competitions} entered in 2025-2026.
+\end{itemize}
+
+\section{Technical Skills}
+\textbf{Programming Languages:} Python, TypeScript, JavaScript, Java, C++, C, SQL, Bash.\par
+\textbf{Machine Learning and AI:} PyTorch, scikit-learn, Deep Learning, Transformers, NLP, Computer Vision, Continual Learning, Random Forest, sentence-transformers, LLMs (Gemini, Gemma, Ollama), agentic and MCP systems, AI security.\par
+\textbf{Bioinformatics and Research:} enhancer-promoter interaction modelling, transformer architecture design, large dataset processing, protein stability and function prediction, model benchmarking, quantum bioinformatics, ML simulation.\par
+\textbf{Embedded Systems:} nRF52840 firmware, encrypted BLE, thermopile and ultrasonic sensing, sensor fusion.\par
+\textbf{Web and Frameworks:} React, Next.js, Vite, Tailwind CSS, Three.js, FastAPI, Django, Django REST Framework, Flask, Spring Boot, Node.js, Express, JavaFX.\par
+\textbf{Databases and Infrastructure:} MySQL, PostgreSQL, SQLite, Redis, Qdrant, RabbitMQ, Docker, Vercel, REST APIs, JWT.\par
+\textbf{Tools and Practices:} Git, GitHub, Software Development Life Cycle (SDLC), Agile and Scrum, Human-Centric Design, System Architecture, Postman, Figma, Linux (RHEL, Ubuntu), Adobe Creative Suite.
+
+\section{Project Highlights}
+\textit{20+ working projects, with a representative selection below.}\par
+\group{Course and Hackathon Projects}
+\textit{Built for course requirements or developed further after hackathons.}\par
+\proj{Akash Investigator: Fintech Complaint Copilot}{2026}{Reads a customer complaint and transaction history, then decides what actually happened. Routes each case to the right department and drafts a safe multilingual reply. Includes a rule-based mode that runs without any AI key. Started at the SUST CSE Carnival 2026 Codex Community Hackathon. \textit{FastAPI, React, Vite, Gemini, OpenAI, MCP.}}
+\proj{Digonto: Bangla-First Study Abroad and Visa Navigator}{2026}{Free guide that helps students plan study abroad in clear Bangla. Cites a source for every claim and declines when no source exists. Agents track official portals, update application plans, and check documents. Started at Build With Gemma Bangladesh. \textit{FastAPI, React, TypeScript, SQLite, Redis, Qdrant, Gemma.}}
+\proj{Breadcrumbs: Supply Chain Compliance Ledger}{2026}{Permissioned blockchain that proves garment factory records are complete without publishing the files. Built for the National Blockchain Olympiad. \textit{Python, FastAPI, SQLite, React, TypeScript.}}
+\proj{FIFA WC 26 Predictor: Sports Machine Learning}{2026}{World Cup 2026 bracket predictor using Elo ratings, Poisson scoring, and Monte Carlo simulation. Runs on a live engine with nothing hardcoded. \textit{React, FastAPI, scikit-learn.}}
+\proj{SentinelGuard: Security-as-a-Service Platform}{2025}{Matches corporate clients with verified guards through AI-driven rostering. Adds QR patrol records and a tamper-evident audit log. Also serves as a testbed for governance-aware AI research. \textit{React, TypeScript, Express, SQLite, JWT.}}
+\proj{Fluxora: Building Management SaaS}{2025}{Brings apartment finance, visitor security, maintenance tickets, and 3D building views into one platform. Optional Gemma features add bilingual notices and a plain-language concierge. \textit{Django, DRF, MySQL, React, TypeScript, Tailwind CSS.}}
+\group{Products and Other Projects}
+\proj{Radflow Edge: Offline Medical AI}{2026}{Offline chest X-ray triage for rural health workers. Runs small models on the device with a clinic-friendly interface. \textit{TypeScript, Python, ONNX, Edge AI, Computer Vision.}}
+\proj{OrchestratorCLI: Multi-Agent AI Orchestration}{2026}{Central orchestrator that routes work to parallel CLI coding agents. Coordinates software workflows across desktop and web interfaces. \textit{FastAPI, React, TypeScript, LLMs, WebSockets, SQLite.}}
+\proj{Alexa BD: Enterprise E-Commerce}{Live}{Enterprise e-commerce product in production, with Stripe payments and Celery background processing.}
+\proj{PaintPro UK: Painting and Decorating Platform}{In development}{Full-stack platform for a UK painting and decorating business. Offers instant estimates, escrow-protected milestone payments, a customer portal, and CRM tools. \textit{React, Vite, Tailwind CSS, FastAPI, Node.js, PostgreSQL, Redis, Stripe.}}
+\proj{Neuzo-News-Bot-AI: Agentic News Verification}{2024}{Fetches news, cross-checks sources, and tests authenticity with NLP and a local Gemma model. Produces reports with a 3D verification graph and bias view. \textit{Python, Flask, React, NLP, Ollama, Three.js.}}
+\proj{WasteBins: Smart Waste Management}{2025}{Predicts bin urgency from IoT sensor data using Random Forest (R\textsuperscript{2} about 0.93). Plans routes on a live map with a traffic-aware Dijkstra's algorithm. Placed 4th runner-up at the UIU CSE Project Show. \textit{Python, scikit-learn, Django, React, Google Maps API.}}
+\proj{ALink: Career Networking Platform}{2026}{Connects students with alumni through mentor discovery, referrals, and guidance sessions. Uses TF-IDF recommendations and an event-driven RabbitMQ worker design. \textit{React, TypeScript, FastAPI, SQLAlchemy, scikit-learn, RabbitMQ, JWT.}}
+\proj{InsightNest: Academic Opportunity Platform}{2023}{Serves learners, faculty, and university representatives across discovery, applications, and research collaboration. Includes four pluggable Gemma-based AI advisors. \textit{Java, Spring Boot 3, Spring Security, React, TypeScript, MySQL.}}
+\vspace{3pt}
+\textbf{Additional Projects:} Karen Bachao (smart campus agentic energy optimization)\sep Polar Window (NASA Space Apps 2026 lunar mission browser)\sep Hearth (local-first desktop AI assistant)\sep Complete Legal Aid (legal technology, Gemini)\sep Vitrine (AI software marketplace)\sep KreatOS (creator CMS, Next.js 16)\sep DuskDrop (surplus-food marketplace)\sep VoxelForge (3D-printing studio)\sep Shohay (civic relief transparency)\sep Untold (mystery-box commerce)\sep Oasis (online art marketplace)\sep De-Novo (accessibility platform)\sep H.E.X. (JavaFX health and education desktop app)\sep Little Lemon (Django REST API)\sep OOP Fundamentals\sep Intro to HTML/CSS/JS.
+
+\section{Courses and Certifications}
+\begin{itemize}
+  \item \textbf{Google:} Crash Course on Python\sep Using Python to Interact with the OS\sep Introduction to Git and GitHub.
+  \item \textbf{Meta:} Django Web Framework\sep APIs (Django REST Framework).
+  \item \textbf{DeepLearning.AI / Stanford Online:} Supervised Machine Learning: Regression and Classification\sep Unsupervised Learning, Recommenders and Reinforcement Learning.
+  \item \textbf{Johns Hopkins University:} Introduction to CSS3\sep HTML, CSS and JavaScript for Web Developers\sep JavaScript and Ajax: Building Web Apps.
+  \item \textbf{IBM:} Introduction to Artificial Intelligence (AI).
+  \item \textbf{Red Hat:} RHCSA I and II (Red Hat Certified System Administrator coursework).
+  \item Software Development Procedures and SDLC\sep Graphic Design (Facebook Page Club)\sep IDP Volunteer Certificate\sep Science Carnival Organiser (x2)\sep Scout Camp Certificate.
+\end{itemize}
+
+\section{Leadership and Volunteering}
+\entry{Part-Time Tutor: HSC Subjects}{2026 - Present}
+\sub{Independent}
+Teaches Physics 1 and 2, Chemistry 1 and 2, and ICT to HSC students.\par
+\vspace{2pt}
+\entry{Part-Time Tutor: SSC Subjects}{2022 - 2026}
+\sub{Independent}
+Taught ICT, Physics, Chemistry, Biology, and Mathematics to secondary students. Achieved an average 20\% improvement in examination scores through personalised teaching.\par
+\vspace{2pt}
+\entry{Secretary: Science Club}{2019 - 2022}
+\sub{Mirpur Cantonment Public School and College}
+Organised inter- and intra-college science festivals and STEM events. Managed a team of 70+ volunteers and produced event graphics with Adobe Creative Suite.\par
+\vspace{2pt}
+\entry{Scout: Bangladesh Scouts}{2015 - 2019}
+\sub{Earned Scout Camp Certificate}
+Developed teamwork, leadership, and community-service skills through outdoor training programs.\par
+
+\section{Languages}
+\textbf{English:} Fluent\sep \textbf{Bangla (Bengali):} Native\sep \textbf{Hindi:} Conversational\sep \textbf{German:} Elementary (currently learning)\sep \textbf{Japanese:} Basic\sep \textbf{Urdu:} Basic\sep \textbf{Arabic:} Reading proficiency
+
+\section{Interests}
+Technology and AI research\sep Open-source contribution\sep Photography\sep Cooking\sep Gardening\sep Singing\sep Cricket and Football\sep Event management\sep Writing\sep Travel
+
+\section{References}
+\href{https://scholar.google.com/citations?user=31mWMiEAAAAJ&hl=en}{\textbf{Dr. Riasat Azim}}\par
+Associate Professor, Dept. of CSE, United International University\par
+PABX: 3149\sep Email: riasat@cse.uiu.ac.bd\par
+
+\end{document}

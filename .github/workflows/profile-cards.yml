@@ -1,0 +1,39 @@
+name: Generate Profile Stats Cards
+
+# Builds the stats cards shown in README.md and commits them into
+# ./profile-summary-card-output, so the profile doesn't depend on a
+# rate-limited public stats server.
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-cards.yml
+
+# Only one run at a time, so two runs never race to push to main.
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # The action commits and pushes the cards itself, so it needs a real
+      # checkout of main. Without this step, `git add` fails with exit 128.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main

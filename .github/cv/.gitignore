@@ -1,0 +1,10 @@
+# LaTeX build files. Keep only the .tex sources and the final .pdf files.
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
